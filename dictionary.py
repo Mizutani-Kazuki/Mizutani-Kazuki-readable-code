@@ -32,7 +32,7 @@ def output_specified_word(idx=None):
         print(f"{idx}:", word_dict[idx])
     else:
         for i, word in word_dict.items():
-            print(f"{i}:", word_dict[i])
+            print(f"{i}:", word)
 
 
 if __name__=='__main__':
