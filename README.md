@@ -14,5 +14,5 @@
 3. `python dictionary.py` プログラムを実行します。
 
 ## 注意点
-* Pythonの実行環境が必要になります
+* Pythonの実行環境が必要になります。
     * Python 3.9.12
